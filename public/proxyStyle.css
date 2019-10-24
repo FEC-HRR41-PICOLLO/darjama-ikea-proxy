@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.topLeft {
+  width: 68%;
+  margin-bottom: 2%;
+}
+
+.topRight {
+  width: 28%;
+  margin-bottom: 2%;
+}
+
+.under {
+  width: 100%;
+  margin-bottom: 2%;
+}
